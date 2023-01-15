@@ -14,5 +14,5 @@ Common preprocessing steps include:
 9. Removing the numerics.
 10. Removing the URLs
 11. Removing the mentions like (@username)
-12. 
+
 These preprocessing steps help to standardize the text data and make it easier for NLP models to understand and process.
